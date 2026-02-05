@@ -1,0 +1,160 @@
+{
+  "book_id": "climate_conscious_pastoral_exile_diaspora",
+  "title": "The Weight of Water",
+  "tagline": "To save the future, they were exiled to the land. Now the land is being taken back.",
+  "target_words": 70000,
+  "actual_words": 70119,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Provisional Stewardship vs. Bureaucratic Reclamation",
+    "The Diaspora of Exiles as a New Community",
+    "Embodied Knowledge vs. Quantified Data",
+    "The Pastoral as Resistance"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Weight of Water",
+      "words": 2920
+    },
+    {
+      "ch": 2,
+      "title": "The Seed Bank",
+      "words": 2920
+    },
+    {
+      "ch": 3,
+      "title": "Foot and Memory",
+      "words": 2920
+    },
+    {
+      "ch": 4,
+      "title": "Chapter 4",
+      "words": 2920
+    },
+    {
+      "ch": 5,
+      "title": "Chapter 5",
+      "words": 2920
+    },
+    {
+      "ch": 6,
+      "title": "Chapter 6",
+      "words": 2920
+    },
+    {
+      "ch": 7,
+      "title": "Chapter 7",
+      "words": 2920
+    },
+    {
+      "ch": 8,
+      "title": "Chapter 8",
+      "words": 2920
+    },
+    {
+      "ch": 9,
+      "title": "Chapter 9",
+      "words": 2920
+    },
+    {
+      "ch": 10,
+      "title": "Chapter 10",
+      "words": 2920
+    },
+    {
+      "ch": 11,
+      "title": "Chapter 11",
+      "words": 2920
+    },
+    {
+      "ch": 12,
+      "title": "Chapter 27",
+      "words": 2920
+    },
+    {
+      "ch": 13,
+      "title": "Chapter 13",
+      "words": 2920
+    },
+    {
+      "ch": 14,
+      "title": "Chapter 14",
+      "words": 2920
+    },
+    {
+      "ch": 15,
+      "title": "Chapter 15",
+      "words": 2920
+    },
+    {
+      "ch": 16,
+      "title": "Chapter 16",
+      "words": 2920
+    },
+    {
+      "ch": 17,
+      "title": "Chapter 17",
+      "words": 2920
+    },
+    {
+      "ch": 18,
+      "title": "Chapter 18",
+      "words": 2920
+    },
+    {
+      "ch": 19,
+      "title": "Chapter 19",
+      "words": 2920
+    },
+    {
+      "ch": 20,
+      "title": "Chapter 20",
+      "words": 2920
+    },
+    {
+      "ch": 21,
+      "title": "Chapter 21",
+      "words": 2920
+    },
+    {
+      "ch": 22,
+      "title": "Chapter 22",
+      "words": 2920
+    },
+    {
+      "ch": 23,
+      "title": "Chapter 23",
+      "words": 2920
+    },
+    {
+      "ch": 24,
+      "title": "Chapter 24",
+      "words": 2919
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of Dr. Anya Sharma returning to her controlled urban arcology, contrasting its sterile 'safety' with the messy vitality of Elara's farm.",
+      "Create a 'field guide' entry for a plant in Elara's seed bank, detailing its history, uses, and the story of how it came to be in her cellar.",
+      "Write a scene where Elara's children, hiding in the root cellar, overhear the conversation at the gate and discuss their fears and loyalties.",
+      "Draft a 'message' sent via the exile network (foot and memory) calling for a gathering, capturing the unique voice and hidden codes of the diaspora."
+    ],
+    "technical": [
+      "Design a 'Resilience Map' for the exile diaspora network, showing nodes (farms), connections (trade routes, messengers), and resources (seed banks, skills).",
+      "Prototype a 'Counter-Metrics' system the exiles could use to quantify their sustainability in a way that values embodied knowledge and community health over pure yield."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Ursula K. Le Guin (anthropological SF, Taoist balance)",
+      "Wendell Berry (agrarian philosophy, stewardship)",
+      "Octavia E. Butler (climate fiction, community survival)",
+      "John Steinbeck (dust bowl displacement, resilience)"
+    ]
+  },
+  "cover_prompt": "A solitary elder, their hands cradling a sprouting seed while ancient, weathered maps are reclaimed by thorny vines at their feet, embodying the tension between lived wisdom and cold bureaucracy. This intimate scene is set at the edge of a resilient, pastoral community of exiles, where makeshift greenhouses built from salvaged tech sit beside wild meadows, under a vast, moody sky that speaks of both loss and hope. In the atmospheric style of Caspar David Friedrich's sublime landscapes and the textured, ecological detail of Thomas Cole's pastoral scenes, rendered with the emotional depth and brushwork of a John Atkinson Grimshaw twilight. Book cover framing, a centered and intimate composition viewed from a low, reverent angle, emphasizing the hands and seed as a focal point against the sweeping, contested landscape. Dramatic, volumetric lighting with a chiaroscuro effect, where warm, golden-hour light from the community hearths fights against the cool, analytical blue glow of distant reclamation drones, palette of earthy umbers, resilient greens, and deep twilight violets. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
