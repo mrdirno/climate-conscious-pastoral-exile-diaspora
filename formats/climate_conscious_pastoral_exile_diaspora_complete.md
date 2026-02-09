@@ -2,7 +2,8 @@
 
 ## CHAPTER 1
 
-The first thing you learn is the weight of water.
+Mud claimed the last road first. Then the salt. Now only the dike-top path remained, a slender spine of packed earth between the drowned fields and the hungry sea. Elise walked it daily, measuring the retreat. Her grandfather’s farmstead slept beneath a silver sheet two kilometers out, its chimney a stone finger pointing a silent, permanent accusation at the sky.
+
 
 It’s not the weight of a bucket, hauled from a well. That’s a clean, singular ache in the shoulder. This is different. This weight is in the air. It’s the damp that settles in your lungs before dawn, a wool blanket of humidity you wear from June to September. It’s the heft of a tomato leaf, beaded with condensation you didn’t get from a tap. It’s the silent, immense burden of a sky that hasn’t decided, for the third day running, whether to break open or simply stew.
 
