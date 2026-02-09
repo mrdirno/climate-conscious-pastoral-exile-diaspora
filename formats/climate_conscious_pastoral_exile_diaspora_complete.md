@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The first thing you learn is the weight of water.
@@ -122,6 +124,8 @@ I left the shattered slate on the stump, a declaration. The weight of water was 
 
 ---
 
+# Chapter 2
+
 ## CHAPTER 2
 
 The seed bank was in the cool, stone-lined root cellar, beneath the oldest part of the house. It was our library, our treasury, our ark. Glass jars and meticulously labelled paper packets lined the shelves, each a tiny, desiccated promise. Cherokee Purple tomato. Moon and Stars watermelon. Lazy Housewife bean. Names that were stories, heirlooms that had survived a hundred apocalypses in the pockets of migrants and the gardens of grandmothers.
@@ -230,6 +234,8 @@ Mara finally nodded, a slow, reluctant capitulation to the inevitable storm we w
 “He stays. Until he can walk. Then he chooses.” I blew out the lamp, plunging the room into a darkness softened by starlight. “We all have to choose now. The time for quiet exile is over.”
 
 ---
+
+# Chapter 3
 
 ## CHAPTER 3
 
